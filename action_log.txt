@@ -1,0 +1,14 @@
+Action Log for AI Room Monitor Project
+========================================
+[INIT] Project started.
+[PLAN] Implementation plan created and approved.
+[EXEC] Database module implementation started.
+[DONE] Database module implemented.
+[EXEC] Implementing FaceRecognitionEngine and RoomDetector.
+[DONE] Core logic implemented.
+[EXEC] Building GUI and main integration loop.
+[EXEC] Refining main.py with entry/exit logic and recognition loop.
+[DONE] GUI integration completed.
+[VERIFY] Ready for testing.
+[DONE] Dependencies installed in local conda environment.
+[VERIFY] OpenCV import successful.
